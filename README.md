@@ -1,4 +1,4 @@
-# Bixi-Bike-Project
+# Bixi Bike Project
 
 https://www.bixi.com/en/open-data
 
